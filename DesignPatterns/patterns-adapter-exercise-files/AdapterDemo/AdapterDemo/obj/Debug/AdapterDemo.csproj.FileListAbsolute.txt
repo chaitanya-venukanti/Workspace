@@ -1,0 +1,13 @@
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\009 - Adapter Pattern\AdapterDemo\AdapterDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\009 - Adapter Pattern\AdapterDemo\AdapterDemo\bin\Debug\Sample.sdf
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\009 - Adapter Pattern\AdapterDemo\AdapterDemo\bin\Debug\AdapterDemo.dll
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\009 - Adapter Pattern\AdapterDemo\AdapterDemo\bin\Debug\AdapterDemo.pdb
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\009 - Adapter Pattern\AdapterDemo\AdapterDemo\obj\Debug\AdapterDemo.dll
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\009 - Adapter Pattern\AdapterDemo\AdapterDemo\obj\Debug\AdapterDemo.pdb
+C:\GIT_Workspace_Chaitanya\DesignPatterns\patterns-adapter-exercise-files\AdapterDemo\AdapterDemo\bin\Debug\Sample.sdf
+C:\GIT_Workspace_Chaitanya\DesignPatterns\patterns-adapter-exercise-files\AdapterDemo\AdapterDemo\bin\Debug\AdapterDemo.dll
+C:\GIT_Workspace_Chaitanya\DesignPatterns\patterns-adapter-exercise-files\AdapterDemo\AdapterDemo\bin\Debug\AdapterDemo.pdb
+C:\GIT_Workspace_Chaitanya\DesignPatterns\patterns-adapter-exercise-files\AdapterDemo\AdapterDemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GIT_Workspace_Chaitanya\DesignPatterns\patterns-adapter-exercise-files\AdapterDemo\AdapterDemo\obj\Debug\AdapterDemo.csprojResolveAssemblyReference.cache
+C:\GIT_Workspace_Chaitanya\DesignPatterns\patterns-adapter-exercise-files\AdapterDemo\AdapterDemo\obj\Debug\AdapterDemo.dll
+C:\GIT_Workspace_Chaitanya\DesignPatterns\patterns-adapter-exercise-files\AdapterDemo\AdapterDemo\obj\Debug\AdapterDemo.pdb
